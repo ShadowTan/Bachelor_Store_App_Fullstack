@@ -3,8 +3,6 @@
 
 This repository contains the project developed for a Bachelor task focused on improving customer experience in retail stores. The primary objective was to create and implement a digital solution that enhances the shopping experience. We achieved this by designing and developing an interactive store map, which helps customers navigate the store efficiently, find products quickly, and enjoy a more streamlined shopping journey.
 
-##### Test Page: https://bachelor-store-app-front-end.vercel.app/ 
-
 ### How to use
 
 1. Download [Node.JS](nodejs.org)
